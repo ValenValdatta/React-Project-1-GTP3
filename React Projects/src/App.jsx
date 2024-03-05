@@ -4,6 +4,7 @@ import "./App.css";
 import Navbar from "./components/navbar/Navbar";
 import Cta from "./components/cta/Cta"
 import Brand from "./components/brand/Brand";
+import Feature from "./components/feature/Feature";
 import WhatGPT3 from "./containers/whatGPT3/WhatGPT3";
 import Features from "./containers/features/Features";
 import Header from "./containers/header/Header";
